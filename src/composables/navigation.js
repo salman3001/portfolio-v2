@@ -1,8 +1,3 @@
-/**
- * Created by Ryan Balieiro on 08.24.2023
- * This composable will be responsible for managing the navigation data.
- */
-
 import {reactive} from "vue"
 import {useConstants} from "./constants.js"
 import {useLayout} from "./layout.js"

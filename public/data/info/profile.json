@@ -1,84 +1,80 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+  "name": "Salman Khan",
+  "profilePictureUrl": "images/pictures/dp.jpg",
 
-    "locales": {
-        "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-
-        "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
-        }
+  "locales": {
+    "en": {
+      "role": "Full Stack Developer"
     },
 
-    "contact": {
-        "address": {
-            "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
-            "faIcon": "fa-solid fa-city",
-            "href": null
-        },
+    "es": {
+      "role": "Designer de UX"
+    },
 
-        "email": {
-            "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
-            "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
-        },
+    "fr": {
+      "role": "Designer UX"
+    },
 
-        "facebook": {
-            "id": "facebook",
-            "value": "Jonas Einstein",
-            "valueShort": "J. Einstein",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
-        },
-
-        "github": {
-            "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
-        },
-
-        "instagram": {
-            "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
-        },
-
-        "linkedin": {
-            "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
-        },
-
-        "phone": {
-            "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
-            "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
-        }
+    "zh": {
+      "role": "用户体验设计师"
     }
+  },
+
+  "contact": {
+    "address": {
+      "id": "address",
+      "value": "Sharjah , UAE",
+      "valueShort": "Sharjah , UAE",
+      "faIcon": "fa-solid fa-city",
+      "href": null
+    },
+
+    "email": {
+      "id": "email",
+      "value": "salman.k3001@gmail.com",
+      "valueShort": "salman.k3001@gmail.com",
+      "faIcon": "fa-solid fa-envelope",
+      "href": "mailto:salman.k3001@gmail.com"
+    },
+
+    "facebook": {
+      "id": "facebook",
+      "value": "Salman Khan",
+      "valueShort": "Salman Khan",
+      "faIcon": "fa-brands fa-facebook",
+      "href": "https://facebook.com"
+    },
+
+    "github": {
+      "id": "github",
+      "value": "@salman3001",
+      "valueShort": "@salman3001",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/salman3001/"
+    },
+
+    "instagram": {
+      "id": "instagram",
+      "value": "@salman3001",
+      "valueShort": "@salman3001",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://instagram.com"
+    },
+
+    "linkedin": {
+      "id": "linkedin",
+      "value": "@salman-k-b922a2144",
+      "valueShort": "@salman-k-b922a2144",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/salman-k-b922a2144/"
+    },
+
+    "phone": {
+      "id": "phone",
+      "value": "+971 (52) 955-1244",
+      "valueShort": "052-955-1244",
+      "faIcon": "fa-solid fa-phone",
+      "href": "tel:971529551244"
+    }
+  }
 }
