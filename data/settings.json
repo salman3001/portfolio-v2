@@ -8,5 +8,5 @@
         }
     ],
 
-    "preloaderEnabled": false
+    "preloaderEnabled": true
 }
