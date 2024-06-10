@@ -27,9 +27,28 @@
       rel="stylesheet"
       type="text/css"
     />
+    <style>
+      .resume-btn {
+        position: fixed;
+        bottom: 1rem;
+        right: 1px;
+        margin: 1rem;
+      }
+
+      @media screen and (max-width: 1000px) {
+        .resume-btn {
+          bottom: 3.5rem;
+        }
+      }
+    </style>
   </head>
   <body class="no-scroll" style="background-color: #212529">
     <div id="app"></div>
+    <a href="docs/CV.pdf" target="_blank">
+      <button class="btn btn-primary resume-btn">
+        <i class="fa-solid fa-download"></i> Resume
+      </button>
+    </a>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
