@@ -29,6 +29,15 @@
       }
     },
     {
+      "id": "npm_packages",
+      "locales": {
+        "en": { "title": "Npm Packages" },
+        "es": { "title": "Utilidades" },
+        "fr": { "title": "Utilitaires" },
+        "zh": { "title": "工具" }
+      }
+    },
+    {
       "id": "demo_projects",
       "locales": {
         "en": { "title": "Demo Projects" },
@@ -51,61 +60,6 @@
   "items": {
     "web_apps": [
       {
-        "id": "laundramoon",
-        "title": "Laundramoon (Laundry Services)",
-        "logoUrl": "images/portfolio/laundramoon.png",
-        "links": [
-          {
-            "faIcon": "fab fa-internet-explorer",
-            "href": "https://www.laundramoon.com/"
-          }
-        ],
-        "locales": {
-          "en": {
-            "description": "<b>Laundramoon</b> offering the laundry services at 84 South Road Southall UB1 1RD United Kingdom",
-            "tags": ["backend", "react", "redux", "material ui", "axios"]
-          }
-        }
-      },
-
-      {
-        "id": "taste_models",
-        "title": "London Taste Models",
-        "logoUrl": "images/portfolio/taste-model.png",
-        "links": [
-          {
-            "faIcon": "fab fa-internet-explorer",
-            "href": "https://londontastemodels.co.uk/"
-          }
-        ],
-        "locales": {
-          "en": {
-            "description": "<b>London Taste Models</b> is offering model bookings and escort service in london United Kingdom",
-            "tags": [
-              "webapp",
-              "business",
-              "react",
-              "tailwind css",
-              "redux",
-              "axios"
-            ]
-          },
-          "es": {
-            "description": "<b>Stackers</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
-            "tags": ["aplicación", "organización", "notas", "productividad"]
-          },
-          "fr": {
-            "description": "<b>Stackers</b> est votre application tout-en-un pour l'organisation et la prise de notes, conçue pour simplifier votre vie numérique. Grâce à son intégration transparente de la gestion des tâches, de l'organisation des notes et du stockage cloud, Stackers vous aide à rester organisé et productif. Créez des listes de tâches, notez vos idées et synchronisez vos notes sur tous vos appareils en toute simplicité. Que vous soyez étudiant, professionnel ou toute personne recherchant un espace de travail numérique sans encombrement, Stackers est là pour élever votre niveau d'organisation.",
-            "tags": ["application", "organisation", "notes", "productivité"]
-          },
-          "zh": {
-            "description": "<b>Stackers</b> 是您的一体化组织和记事应用，旨在优化您的数字生活。通过无缝集成的任务管理、记事组织和云存储功能，Stackers 帮助您保持组织和高效。创建待办事项列表，记录想法，并轻松在各设备间同步您的笔记。无论您是学生、专业人士还是寻求无杂乱数字工作空间的任何人，Stackers 都在此，提升您的组织能力。",
-            "tags": ["应用", "组织", "笔记", "生产力"]
-          }
-        }
-      },
-
-      {
         "id": "urvigo",
         "title": "Urvigo Saas Application",
         "logoUrl": "images/portfolio/urvigo.png",
@@ -117,7 +71,7 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>Urvigo</b> is a a Saas application under development which will launched in india. Contact for more insights about project",
+            "description": "<b>Urvigo</b> Urvigo, a full stack SaaS application designed to empower vendors by offering a comprehensive platform for service listings. Urvigo's key features include service listing, bid placement, custom requirement listings, and real-time chat for price negotiations. Vendors benefit from a robust dashboard where they can add new services, offer discounts, manage bookings, and handle payments seamlessly. The application aims to streamline vendor operations and enhance user experience, providing a versatile and efficient solution for service management. Skills used - Nodejs, My Sql, Vue.js, REST APIs, Pinia States, Vuetify theme, Saas, socket.io, realtime features, TypeScript, Inertia.js and more. Contact for demo → <a href='mailto:Salman.k3001@gmail.com'>Salman.k3001@gmail.com</a>..",
             "tags": ["Saas", "vuejs", "node", "adonisjs", "quasar"]
           },
           "es": {
@@ -143,9 +97,115 @@
             "tags": ["应用", "电子邮件", "通讯", "生产力"]
           }
         }
+      },
+      {
+        "id": "laundramoon",
+        "title": "Laundramoon (Laundry Services)",
+        "logoUrl": "images/portfolio/laundramoon.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://www.laundramoon.com/"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Laundramoon</b>.I developed a laundry service web application featuring online booking, payments, a role-based admin dashboard, order management, blogs, and the ability to add and update laundry items and pricing. The application includes REST API integration and social authentication. Skills used include React.js, REST APIs, Redux.js, Stripe Pay, Material-UI, TypeScript, and Inertia.js and more. Website Link : <a href='https://www.laundramoon.com/'>https://www.laundramoon.com/</a>",
+            "tags": ["backend", "react", "redux", "material ui", "axios"]
+          }
+        }
+      },
+
+      {
+        "id": "taste_models",
+        "title": "London Taste Models",
+        "logoUrl": "images/portfolio/taste-model.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://londontastemodels.co.uk/"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>London Taste Models</b>, I developed this sophisticated web application utilizing React and Redux for state management, complemented by Material UI to achieve a sleek and responsive design. The application features RESTful API integration, facilitating seamless data interaction and dynamic content updates., I ensured a user-friendly login process. Additionally, I created a role-based admin dashboard to efficiently manage user permissions and content. While my primary focus was on the frontend, I also contributed to the backend, enhancing the overall functionality and performance of the application. Skills used - React.js, REST APIs, Redux.js, Material-UI, TypeScript, and Inertia.js and more. Website link : <a href='https://londontastemodels.co.uk/'> https://londontastemodels.co.uk/</a>",
+            "tags": [
+              "webapp",
+              "business",
+              "react",
+              "tailwind css",
+              "redux",
+              "axios"
+            ]
+          },
+          "es": {
+            "description": "<b>Stackers</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
+            "tags": ["aplicación", "organización", "notas", "productividad"]
+          },
+          "fr": {
+            "description": "<b>Stackers</b> est votre application tout-en-un pour l'organisation et la prise de notes, conçue pour simplifier votre vie numérique. Grâce à son intégration transparente de la gestion des tâches, de l'organisation des notes et du stockage cloud, Stackers vous aide à rester organisé et productif. Créez des listes de tâches, notez vos idées et synchronisez vos notes sur tous vos appareils en toute simplicité. Que vous soyez étudiant, professionnel ou toute personne recherchant un espace de travail numérique sans encombrement, Stackers est là pour élever votre niveau d'organisation.",
+            "tags": ["application", "organisation", "notes", "productivité"]
+          },
+          "zh": {
+            "description": "<b>Stackers</b> 是您的一体化组织和记事应用，旨在优化您的数字生活。通过无缝集成的任务管理、记事组织和云存储功能，Stackers 帮助您保持组织和高效。创建待办事项列表，记录想法，并轻松在各设备间同步您的笔记。无论您是学生、专业人士还是寻求无杂乱数字工作空间的任何人，Stackers 都在此，提升您的组织能力。",
+            "tags": ["应用", "组织", "笔记", "生产力"]
+          }
+        }
       }
     ],
-
+    "npm_packages": [
+      {
+        "id": "nest_mailer",
+        "title": "Nest Mailer",
+        "logoUrl": "images/portfolio/npm.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://www.npmjs.com/package/@salman3001/nest-policy-module"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Nest Mailer</b> is a npm package i created to simplify sending emails in nest js application. package supports multiple transport and queue adapters. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
+            "tags": ["calculator", "Reactjs", "Jest testing"]
+          }
+        }
+      },
+      {
+        "id": "nest_config_module",
+        "title": "Nest Config Module",
+        "logoUrl": "images/portfolio/npm.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://www.npmjs.com/package/@salman3001/nest-config-module"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Nest Config moduler</b> is a npm package i created to manage the nest js config. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-config-module'>https://www.npmjs.com/package/@salman3001/nest-config-module</a>",
+            "tags": ["calculator", "Reactjs", "Jest testing"]
+          }
+        }
+      },
+      {
+        "id": "nest_policy_module",
+        "title": "Nest Policy Module",
+        "logoUrl": "images/portfolio/npm.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://www.npmjs.com/package/@salman3001/nest-policy-module"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Nest policy moduler</b> is a npm package i created to manage the user permissions in a nestjs application. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
+            "tags": ["calculator", "Reactjs", "Jest testing"]
+          }
+        }
+      }
+    ],
     "demo_projects": [
       {
         "id": "react_calculator",
@@ -159,7 +219,7 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>React Calculator</b> is a demo project made with react. Please explore and test functionality",
+            "description": "<b>React Calculator</b> is a demo project made with react. Please explore and test functionality <a href='https://salman3001.github.io/calculator-react/'>https://salman3001.github.io/calculator-react/</a>",
             "tags": ["calculator", "Reactjs", "Jest testing"]
           }
         }
@@ -176,7 +236,24 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>Buyzone Mern</b> is a demo project made with Express, React, Mogodb. Please explore the project. backend is deployed on Orender (free hosting), takes a minute to bootup",
+            "description": "<b>Buyzone Mern</b> is a demo project made with Express, React, Mogodb. Please explore the project. backend is deployed on Orender (free hosting), takes a minute to bootup. <a href='https://salman3001.github.io/buyzone-ecommerce-app-mern/'>https://salman3001.github.io/buyzone-ecommerce-app-mern/</a>",
+            "tags": ["Mern Stack", "Reactjs", "Expressjs", "Mongo Db"]
+          }
+        }
+      },
+      {
+        "id": "portfolio_v1_outdated",
+        "title": "My Portfolio V1 (outdated)",
+        "logoUrl": "images/portfolio/portfolio_v1.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://salman3001.github.io/portfolio"
+          }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>My portfolio version 1 (outdated)</b> The first portfolio i created using react. Portfolio content is ouotdated now. <a href='https://salman3001.github.io/portfolio'>https://salman3001.github.io/portfolio</a>",
             "tags": ["Mern Stack", "Reactjs", "Expressjs", "Mongo Db"]
           }
         }
@@ -195,7 +272,7 @@
         ],
         "locales": {
           "en": {
-            "description": "<b>React Calculator</b> is a demo project made with react. Please explore and test functionality",
+            "description": "<b>Jivan surksha</b> a website landing page. <a href='https://salman3001.github.io/jivansurksha-figma-project-2'>https://salman3001.github.io/jivansurksha-figma-project-2/</a>'",
             "tags": ["html", "css"]
           }
         }
