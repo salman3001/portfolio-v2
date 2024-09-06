@@ -60,6 +60,55 @@
   "items": {
     "web_apps": [
       {
+        "id": "cert-guard",
+        "title": "CertGurad - Online certificate verification",
+        "logoUrl": "images/portfolio/cert-guard.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "https://cert-guard-vue.onrender.com/"
+          }
+        ],
+        "images": [
+          "/images/portfolio/certguard/1.png",
+          "/images/portfolio/certguard/2.png",
+          "/images/portfolio/certguard/3.png",
+          "/images/portfolio/certguard/4.png",
+          "/images/portfolio/certguard/5.png",
+          "/images/portfolio/certguard/6.png",
+          "/images/portfolio/certguard/7.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/UamIhWsIdNU?autoplay=0&rel=0&autoplay=0",
+        "locales": {
+          "en": {
+            "description": "<b>CertGuard</b> CertGuard, is an online certificate verification app. Where organizations can register and issue certificates. Each certificate generates a QR core which can be printed on original certificate. Any one have this QR code can verify the certificate from this web app. <a target='_blank' href='https://cert-guard-vue.onrender.com/'>Click here for Demo</a>..",
+            "tags": ["Webapp", "vuejs", "node", "adonisjs", "veutify"]
+          },
+          "es": {
+            "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+            "tags": [
+              "aplicación",
+              "correo electrónico",
+              "comunicación",
+              "productividad"
+            ]
+          },
+          "fr": {
+            "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+            "tags": [
+              "application",
+              "courrier électronique",
+              "communication",
+              "productivité"
+            ]
+          },
+          "zh": {
+            "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+            "tags": ["应用", "电子邮件", "通讯", "生产力"]
+          }
+        }
+      },
+      {
         "id": "urvigo",
         "title": "Urvigo Saas Application",
         "logoUrl": "images/portfolio/urvigo.png",
@@ -69,9 +118,35 @@
             "href": "/"
           }
         ],
+        "images": [
+          "/images/portfolio/urvigo/1.png",
+          "/images/portfolio/urvigo/2.png",
+          "/images/portfolio/urvigo/3.png",
+          "/images/portfolio/urvigo/4.png",
+          "/images/portfolio/urvigo/5.png",
+          "/images/portfolio/urvigo/6.png",
+          "/images/portfolio/urvigo/7.png",
+          "/images/portfolio/urvigo/8.png",
+          "/images/portfolio/urvigo/9.png",
+          "/images/portfolio/urvigo/10.png",
+          "/images/portfolio/urvigo/11.png",
+          "/images/portfolio/urvigo/12.png",
+          "/images/portfolio/urvigo/13.png",
+          "/images/portfolio/urvigo/14.png",
+          "/images/portfolio/urvigo/15.png",
+          "/images/portfolio/urvigo/16.png",
+          "/images/portfolio/urvigo/17.png",
+          "/images/portfolio/urvigo/18.png",
+          "/images/portfolio/urvigo/19.png",
+          "/images/portfolio/urvigo/20.png",
+          "/images/portfolio/urvigo/21.png",
+          "/images/portfolio/urvigo/22.png",
+          "/images/portfolio/urvigo/23.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/w3Civ7gT_cM?autoplay=0&rel=0&autoplay=0",
         "locales": {
           "en": {
-            "description": "<b>Urvigo</b> Urvigo, a full stack SaaS application designed to empower vendors by offering a comprehensive platform for service listings. Urvigo's key features include service listing, bid placement, custom requirement listings, and real-time chat for price negotiations. Vendors benefit from a robust dashboard where they can add new services, offer discounts, manage bookings, and handle payments seamlessly. The application aims to streamline vendor operations and enhance user experience, providing a versatile and efficient solution for service management. Skills used - Nodejs, My Sql, Vue.js, REST APIs, Pinia States, Vuetify theme, Saas, socket.io, realtime features, TypeScript, Inertia.js and more. Contact for demo → <a href='mailto:Salman.k3001@gmail.com'>Salman.k3001@gmail.com</a>..",
+            "description": "<b>Urvigo</b> Urvigo, a full stack SaaS application designed to empower vendors by offering a comprehensive platform for service listings. Urvigo's key features include service listing, bid placement, custom requirement listings, and real-time chat for price negotiations. Vendors benefit from a robust dashboard where they can add new services, offer discounts, manage bookings, and handle payments seamlessly. The application aims to streamline vendor operations and enhance user experience, providing a versatile and efficient solution for service management. Skills used - Nodejs, My Sql, Vue.js, REST APIs, Pinia States, Vuetify theme, Saas, socket.io, realtime features, TypeScript, Inertia.js and more. Contact for demo → <a target='_blank' href='mailto:Salman.k3001@gmail.com'>Salman.k3001@gmail.com</a>..",
             "tags": ["Saas", "vuejs", "node", "adonisjs", "quasar"]
           },
           "es": {
@@ -108,9 +183,19 @@
             "href": "https://www.laundramoon.com/"
           }
         ],
+        "images": [
+          "/images/portfolio/laundramoon/1.jpg",
+          "/images/portfolio/laundramoon/2.jpg",
+          "/images/portfolio/laundramoon/3.jpg",
+          "/images/portfolio/laundramoon/4.jpg",
+          "/images/portfolio/laundramoon/5.jpg",
+          "/images/portfolio/laundramoon/6.jpg",
+          "/images/portfolio/laundramoon/7.jpg"
+        ],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>Laundramoon</b>.I developed a laundry service web application featuring online booking, payments, a role-based admin dashboard, order management, blogs, and the ability to add and update laundry items and pricing. The application includes REST API integration and social authentication. Skills used include React.js, REST APIs, Redux.js, Stripe Pay, Material-UI, TypeScript, and Inertia.js and more. Website Link : <a href='https://www.laundramoon.com/'>https://www.laundramoon.com/</a>",
+            "description": "<b>Laundramoon</b>.I developed a laundry service web application featuring online booking, payments, a role-based admin dashboard, order management, blogs, and the ability to add and update laundry items and pricing. The application includes REST API integration and social authentication. Skills used include React.js, REST APIs, Redux.js, Stripe Pay, Material-UI, TypeScript, and Inertia.js and more. Website Link : <a target='_blank' href='https://www.laundramoon.com/'>https://www.laundramoon.com/</a>",
             "tags": ["backend", "react", "redux", "material ui", "axios"]
           }
         }
@@ -126,9 +211,24 @@
             "href": "https://londontastemodels.co.uk/"
           }
         ],
+        "images": [
+          "/images/portfolio/taste-models/1.png",
+          "/images/portfolio/taste-models/2.png",
+          "/images/portfolio/taste-models/3.png",
+          "/images/portfolio/taste-models/4.png",
+          "/images/portfolio/taste-models/5.png",
+          "/images/portfolio/taste-models/6.png",
+          "/images/portfolio/taste-models/7.png",
+          "/images/portfolio/taste-models/8.png",
+          "/images/portfolio/taste-models/9.png",
+          "/images/portfolio/taste-models/10.png",
+          "/images/portfolio/taste-models/11.png",
+          "/images/portfolio/taste-models/12.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/GpZUoQFsnSc?autoplay=0&rel=0&autoplay=0",
         "locales": {
           "en": {
-            "description": "<b>London Taste Models</b>, I developed this sophisticated web application utilizing React and Redux for state management, complemented by Material UI to achieve a sleek and responsive design. The application features RESTful API integration, facilitating seamless data interaction and dynamic content updates., I ensured a user-friendly login process. Additionally, I created a role-based admin dashboard to efficiently manage user permissions and content. While my primary focus was on the frontend, I also contributed to the backend, enhancing the overall functionality and performance of the application. Skills used - React.js, REST APIs, Redux.js, Material-UI, TypeScript, and Inertia.js and more. Website link : <a href='https://londontastemodels.co.uk/'> https://londontastemodels.co.uk/</a>",
+            "description": "<b>London Taste Models</b>, I developed this sophisticated web application utilizing React and Redux for state management, complemented by Material UI to achieve a sleek and responsive design. The application features RESTful API integration, facilitating seamless data interaction and dynamic content updates., I ensured a user-friendly login process. Additionally, I created a role-based admin dashboard to efficiently manage user permissions and content. While my primary focus was on the frontend, I also contributed to the backend, enhancing the overall functionality and performance of the application. Skills used - React.js, REST APIs, Redux.js, Material-UI, TypeScript, and Inertia.js and more. Website link : <a target='_blank' href='https://londontastemodels.co.uk/'> https://londontastemodels.co.uk/</a>",
             "tags": [
               "webapp",
               "business",
@@ -161,12 +261,14 @@
         "links": [
           {
             "faIcon": "fab fa-internet-explorer",
-            "href": "https://www.npmjs.com/package/@salman3001/nest-policy-module"
+            "href": "https://www.npmjs.com/package/@salman3001/nest-mailer"
           }
         ],
+        "images": ["/images/portfolio/nest-mailer/1.png"],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>Nest Mailer</b> is a npm package i created to simplify sending emails in nest js application. package supports multiple transport and queue adapters. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
+            "description": "<b>Nest Mailer</b> is a npm package i created to simplify sending emails in nest js application. package supports multiple transport and queue adapters. please check the docs on this link <a target='_blank' href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
             "tags": ["calculator", "Reactjs", "Jest testing"]
           }
         }
@@ -181,9 +283,11 @@
             "href": "https://www.npmjs.com/package/@salman3001/nest-config-module"
           }
         ],
+        "images": ["/images/portfolio/nest-config/1.png"],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>Nest Config moduler</b> is a npm package i created to manage the nest js config. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-config-module'>https://www.npmjs.com/package/@salman3001/nest-config-module</a>",
+            "description": "<b>Nest Config moduler</b> is a npm package i created to manage the nest js config. please check the docs on this link <a target='_blank' href='https://www.npmjs.com/package/@salman3001/nest-config-module'>https://www.npmjs.com/package/@salman3001/nest-config-module</a>",
             "tags": ["calculator", "Reactjs", "Jest testing"]
           }
         }
@@ -198,9 +302,11 @@
             "href": "https://www.npmjs.com/package/@salman3001/nest-policy-module"
           }
         ],
+        "images": ["/images/portfolio/nest-policy/1.png"],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>Nest policy moduler</b> is a npm package i created to manage the user permissions in a nestjs application. please check the docs on this link <a href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
+            "description": "<b>Nest policy moduler</b> is a npm package i created to manage the user permissions in a nestjs application. please check the docs on this link <a target='_blank' href='https://www.npmjs.com/package/@salman3001/nest-policy-module'>https://www.npmjs.com/package/@salman3001/nest-policy-module</a>",
             "tags": ["calculator", "Reactjs", "Jest testing"]
           }
         }
@@ -217,9 +323,14 @@
             "href": "https://salman3001.github.io/calculator-react/"
           }
         ],
+        "images": [
+          "/images/portfolio/calculator/1.png",
+          "/images/portfolio/calculator/2.png"
+        ],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>React Calculator</b> is a demo project made with react. Please explore and test functionality <a href='https://salman3001.github.io/calculator-react/'>https://salman3001.github.io/calculator-react/</a>",
+            "description": "<b>React Calculator</b> is a demo project made with react. Please explore and test functionality <a target='_blank' href='https://salman3001.github.io/calculator-react/'>https://salman3001.github.io/calculator-react/</a>",
             "tags": ["calculator", "Reactjs", "Jest testing"]
           }
         }
@@ -234,9 +345,17 @@
             "href": "https://salman3001.github.io/buyzone-ecommerce-app-mern/"
           }
         ],
+        "images": [
+          "/images/portfolio/buyzone/1.png",
+          "/images/portfolio/buyzone/2.png",
+          "/images/portfolio/buyzone/3.png",
+          "/images/portfolio/buyzone/4.png",
+          "/images/portfolio/buyzone/5.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/PhiR67MTNtA?autoplay=0&rel=0&autoplay=0",
         "locales": {
           "en": {
-            "description": "<b>Buyzone Mern</b> is a demo project made with Express, React, Mogodb. Please explore the project. backend is deployed on Orender (free hosting), takes a minute to bootup. <a href='https://salman3001.github.io/buyzone-ecommerce-app-mern/'>https://salman3001.github.io/buyzone-ecommerce-app-mern/</a>",
+            "description": "<b>Buyzone Mern</b> is a demo project made with Express, React, Mogodb. Please explore the project. backend is deployed on Orender (free hosting), takes a minute to bootup. <a target='_blank' href='https://salman3001.github.io/buyzone-ecommerce-app-mern/'>https://salman3001.github.io/buyzone-ecommerce-app-mern/</a>",
             "tags": ["Mern Stack", "Reactjs", "Expressjs", "Mongo Db"]
           }
         }
@@ -251,9 +370,11 @@
             "href": "https://salman3001.github.io/portfolio"
           }
         ],
+        "images": ["/images/portfolio/portfolio-v1/1.png"],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>My portfolio version 1 (outdated)</b> The first portfolio i created using react. Portfolio content is ouotdated now. <a href='https://salman3001.github.io/portfolio'>https://salman3001.github.io/portfolio</a>",
+            "description": "<b>My portfolio version 1 (outdated)</b> The first portfolio i created using react. Portfolio content is ouotdated now. <a target='_blank' href='https://salman3001.github.io/portfolio'>https://salman3001.github.io/portfolio</a>",
             "tags": ["Mern Stack", "Reactjs", "Expressjs", "Mongo Db"]
           }
         }
@@ -270,9 +391,15 @@
             "href": "https://salman3001.github.io/jivansurksha-figma-project-2/"
           }
         ],
+        "images": [
+          "/images/portfolio/jivan/1.png",
+          "/images/portfolio/jivan/2.png",
+          "/images/portfolio/jivan/3.png"
+        ],
+        "video": null,
         "locales": {
           "en": {
-            "description": "<b>Jivan surksha</b> a website landing page. <a href='https://salman3001.github.io/jivansurksha-figma-project-2'>https://salman3001.github.io/jivansurksha-figma-project-2/</a>'",
+            "description": "<b>Jivan surksha</b> a website landing page. <a target='_blank' href='https://salman3001.github.io/jivansurksha-figma-project-2'>https://salman3001.github.io/jivansurksha-figma-project-2/</a>'",
             "tags": ["html", "css"]
           }
         }
