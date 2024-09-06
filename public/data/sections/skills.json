@@ -84,9 +84,9 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Proficient in Modern JavaScript Frameworks",
+            "title": "Modern JavaScript Frameworks",
             "description": [
-              "Node.js, Vue.js, React, Next.js, Nuxt, Extensive experience in building and maintaining web applications using these frameworks. Capable of handling both front-end and back-end development tasks seamlessly."
+              "Extensive experience with Node.js, Vue.js, React, Next.js, and Nuxt. Capable of developing and maintaining full-stack applications with ease"
             ]
           },
           "es": {
@@ -110,8 +110,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Versatile Database Management",
-            "description": "MySQL, MongoDB, PostgreSQL, Type ORM, Mongoose, Lucid ORM. Skilled in managing different types of databases to ensure efficient data storage and retrieval. Proficient in using ORMs to interact with databases in an object-oriented manner."
+            "title": "Database Management",
+            "description": "Proficient in MySQL, MongoDB, PostgreSQL, TypeORM, and Mongoose. Expert in handling relational and non-relational databases, ensuring optimized data storage and retrieval."
           },
           "es": {
             "title": "Diseños Responsivos",
@@ -133,8 +133,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Comprehensive Development Expertise",
-            "description": "SaaS Applications, E-commerce, CMS, REST APIs, GraphQL. Proven track record in developing Software as a Service (SaaS) applications and complex e-commerce platforms. Experienced in creating Content Management Systems (CMS) and implementing both RESTful and GraphQL APIs for robust data communication."
+            "title": "Development Expertise",
+            "description": "Proven success in developing SaaS applications, e-commerce platforms, CMS, and robust APIs (REST and GraphQL) for seamless data communication."
           },
           "es": {
             "title": "Pruebas de Usabilidad",
@@ -157,8 +157,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Advanced Tool Utilization",
-            "description": "Version Control (Git), Testing and Debugging, DevOps (CI/CD), Cloud Services Utilizes Git for version control to manage and collaborate on code efficiently. Strong capabilities in testing and debugging to ensure application stability and performance. Knowledgeable in continuous integration and continuous deployment practices to streamline development workflows.Experienced with cloud services to deploy and manage scalable applications."
+            "title": "Advanced Tools",
+            "description": "Skilled in Git for version control, CI/CD processes, cloud services, and testing/debugging practices to maintain application stability."
           },
           "es": {
             "title": "Creación de Wireframes",
@@ -181,8 +181,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Expertise in Real-time Features and Integrations",
-            "description": "WebSockets, Payments Integration, Third-party API Integration. Implements real-time features using WebSockets for dynamic, interactive applications. Integrates various payment gateways and third-party services to enhance application functionality."
+            "title": "Real-time Integrations",
+            "description": "Experience with WebSockets, payment gateway integration, and third-party APIs to build interactive, feature-rich applications."
           },
           "es": {
             "title": "Diseño de Interacción",
@@ -205,8 +205,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Adherence to Best Practices in Coding",
-            "description": "Reusable Code Libraries, NPM Packages, Test Driven Development (TDD), SOLID Principles, Clean Architecture Develops reusable code libraries and custom NPM packages to improve development efficiency. Follows Test Driven Development (TDD) practices to ensure robust and error-free code. Adheres to SOLID principles and clean architecture to create maintainable and scalable applications."
+            "title": "Coding Best Practices",
+            "description": "Strong adherence to SOLID principles, Test-Driven Development (TDD), and clean architecture for scalable, maintainable code."
           },
           "es": {
             "title": "Prototipado",
@@ -230,7 +230,7 @@
         "locales": {
           "en": {
             "title": "Docker and Microservices",
-            "description": "Containerization with Docker, Microservices Architecture. Uses Docker for containerizing applications to ensure consistency across development and production environments. Designs and implements microservices architecture for scalable and maintainable applications."
+            "description": "Containerization with Docker, designing microservices architectures for scalable solutions."
           },
           "es": {
             "title": "Prototipado",
@@ -417,8 +417,8 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Proficient in API Design and Integration",
-            "description": "Experienced in designing robust APIs and integrating various third-party services, ensuring seamless communication between different parts of the application and enhancing overall functionality."
+            "title": "API Design & Integration",
+            "description": "Adept at designing robust APIs and integrating third-party services to enhance functionality."
           },
           "es": {
             "title": "Experiencia de Usuario en Aplicaciones Móviles",
@@ -441,7 +441,7 @@
         "locales": {
           "en": {
             "title": "GraphQL",
-            "description": "Familiar with GraphQL, a Query Language for APIs Adept at utilizing GraphQL for efficient data fetching, enabling precise queries and reducing unnecessary data loads."
+            "description": "Skilled in leveraging GraphQL for precise data fetching and efficient API queries."
           },
           "es": {
             "title": "Diseño de Interfaz de Usuario (UI)",
@@ -464,7 +464,7 @@
         "locales": {
           "en": {
             "title": "Internationalozation / Localization",
-            "description": "Proficient in Internationalization and Localization Good knowledge of implementing internationalization (i18n) and localization (l10n) techniques to cater to diverse user bases across different languages and regions."
+            "description": "Proficient in implementing i18n and l10n to serve diverse user bases."
           },
           "es": {
             "title": "Desarrollo Front-End",
@@ -487,7 +487,7 @@
         "locales": {
           "en": {
             "title": "Performance Optimization",
-            "description": "Advanced Performance Optimization Techniques. Skilled in both frontend and backend optimization, including lazy loading, code splitting, server-side rendering, and database indexing to ensure fast and responsive applications."
+            "description": " Expertise in frontend and backend optimization techniques to ensure fast, responsive applications."
           },
           "es": {
             "title": "Visualización de Información",
@@ -510,7 +510,7 @@
         "locales": {
           "en": {
             "title": "Docker and Microservices",
-            "description": "Containerization with Docker, Microservices Architecture. Uses Docker for containerizing applications to ensure consistency across development and production environments. Designs and implements microservices architecture for scalable and maintainable applications."
+            "description": "knowledge of Docker containerization and microservices architecture for building scalable applications."
           },
           "es": {
             "title": "Análisis de Datos Centrado en el Usuario",
@@ -523,29 +523,6 @@
           "zh": {
             "title": "以用户为中心的数据分析",
             "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": "fa-brands fa-teamspeak",
-        "value": null,
-        "locales": {
-          "en": {
-            "title": "Soft Skills",
-            "description": "Excellent communication, teamwork, problem-solving, and time management skills essential for collaborating with teammates, understanding client requirements, and delivering projects successfully."
-          },
-          "es": {
-            "title": "Accesibilidad y Diseño Inclusivo",
-            "description": "Capaz de crear experiencias digitales accesibles para todos."
-          },
-          "fr": {
-            "title": "Accessibilité et Design Inclusif",
-            "description": "Capable de créer des expériences numériques accessibles à tous."
-          },
-          "zh": {
-            "title": "可访问性和包容性设计",
-            "description": "能够创建面向所有人的数字体验。"
           }
         }
       }
