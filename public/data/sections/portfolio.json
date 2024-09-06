@@ -70,13 +70,13 @@
           }
         ],
         "images": [
-          "/images/portfolio/certguard/1.png",
-          "/images/portfolio/certguard/2.png",
-          "/images/portfolio/certguard/3.png",
-          "/images/portfolio/certguard/4.png",
-          "/images/portfolio/certguard/5.png",
-          "/images/portfolio/certguard/6.png",
-          "/images/portfolio/certguard/7.png"
+          "images/portfolio/certguard/1.png",
+          "images/portfolio/certguard/2.png",
+          "images/portfolio/certguard/3.png",
+          "images/portfolio/certguard/4.png",
+          "images/portfolio/certguard/5.png",
+          "images/portfolio/certguard/6.png",
+          "images/portfolio/certguard/7.png"
         ],
         "video": "https://www.youtube-nocookie.com/embed/UamIhWsIdNU?autoplay=0&rel=0&autoplay=0",
         "locales": {
@@ -119,29 +119,29 @@
           }
         ],
         "images": [
-          "/images/portfolio/urvigo/1.png",
-          "/images/portfolio/urvigo/2.png",
-          "/images/portfolio/urvigo/3.png",
-          "/images/portfolio/urvigo/4.png",
-          "/images/portfolio/urvigo/5.png",
-          "/images/portfolio/urvigo/6.png",
-          "/images/portfolio/urvigo/7.png",
-          "/images/portfolio/urvigo/8.png",
-          "/images/portfolio/urvigo/9.png",
-          "/images/portfolio/urvigo/10.png",
-          "/images/portfolio/urvigo/11.png",
-          "/images/portfolio/urvigo/12.png",
-          "/images/portfolio/urvigo/13.png",
-          "/images/portfolio/urvigo/14.png",
-          "/images/portfolio/urvigo/15.png",
-          "/images/portfolio/urvigo/16.png",
-          "/images/portfolio/urvigo/17.png",
-          "/images/portfolio/urvigo/18.png",
-          "/images/portfolio/urvigo/19.png",
-          "/images/portfolio/urvigo/20.png",
-          "/images/portfolio/urvigo/21.png",
-          "/images/portfolio/urvigo/22.png",
-          "/images/portfolio/urvigo/23.png"
+          "images/portfolio/urvigo/1.png",
+          "images/portfolio/urvigo/2.png",
+          "images/portfolio/urvigo/3.png",
+          "images/portfolio/urvigo/4.png",
+          "images/portfolio/urvigo/5.png",
+          "images/portfolio/urvigo/6.png",
+          "images/portfolio/urvigo/7.png",
+          "images/portfolio/urvigo/8.png",
+          "images/portfolio/urvigo/9.png",
+          "images/portfolio/urvigo/10.png",
+          "images/portfolio/urvigo/11.png",
+          "images/portfolio/urvigo/12.png",
+          "images/portfolio/urvigo/13.png",
+          "images/portfolio/urvigo/14.png",
+          "images/portfolio/urvigo/15.png",
+          "images/portfolio/urvigo/16.png",
+          "images/portfolio/urvigo/17.png",
+          "images/portfolio/urvigo/18.png",
+          "images/portfolio/urvigo/19.png",
+          "images/portfolio/urvigo/20.png",
+          "images/portfolio/urvigo/21.png",
+          "images/portfolio/urvigo/22.png",
+          "images/portfolio/urvigo/23.png"
         ],
         "video": "https://www.youtube-nocookie.com/embed/w3Civ7gT_cM?autoplay=0&rel=0&autoplay=0",
         "locales": {
@@ -184,13 +184,13 @@
           }
         ],
         "images": [
-          "/images/portfolio/laundramoon/1.jpg",
-          "/images/portfolio/laundramoon/2.jpg",
-          "/images/portfolio/laundramoon/3.jpg",
-          "/images/portfolio/laundramoon/4.jpg",
-          "/images/portfolio/laundramoon/5.jpg",
-          "/images/portfolio/laundramoon/6.jpg",
-          "/images/portfolio/laundramoon/7.jpg"
+          "images/portfolio/laundramoon/1.jpg",
+          "images/portfolio/laundramoon/2.jpg",
+          "images/portfolio/laundramoon/3.jpg",
+          "images/portfolio/laundramoon/4.jpg",
+          "images/portfolio/laundramoon/5.jpg",
+          "images/portfolio/laundramoon/6.jpg",
+          "images/portfolio/laundramoon/7.jpg"
         ],
         "video": null,
         "locales": {
@@ -212,18 +212,18 @@
           }
         ],
         "images": [
-          "/images/portfolio/taste-models/1.png",
-          "/images/portfolio/taste-models/2.png",
-          "/images/portfolio/taste-models/3.png",
-          "/images/portfolio/taste-models/4.png",
-          "/images/portfolio/taste-models/5.png",
-          "/images/portfolio/taste-models/6.png",
-          "/images/portfolio/taste-models/7.png",
-          "/images/portfolio/taste-models/8.png",
-          "/images/portfolio/taste-models/9.png",
-          "/images/portfolio/taste-models/10.png",
-          "/images/portfolio/taste-models/11.png",
-          "/images/portfolio/taste-models/12.png"
+          "images/portfolio/taste-models/1.png",
+          "images/portfolio/taste-models/2.png",
+          "images/portfolio/taste-models/3.png",
+          "images/portfolio/taste-models/4.png",
+          "images/portfolio/taste-models/5.png",
+          "images/portfolio/taste-models/6.png",
+          "images/portfolio/taste-models/7.png",
+          "images/portfolio/taste-models/8.png",
+          "images/portfolio/taste-models/9.png",
+          "images/portfolio/taste-models/10.png",
+          "images/portfolio/taste-models/11.png",
+          "images/portfolio/taste-models/12.png"
         ],
         "video": "https://www.youtube-nocookie.com/embed/GpZUoQFsnSc?autoplay=0&rel=0&autoplay=0",
         "locales": {
@@ -264,7 +264,7 @@
             "href": "https://www.npmjs.com/package/@salman3001/nest-mailer"
           }
         ],
-        "images": ["/images/portfolio/nest-mailer/1.png"],
+        "images": ["images/portfolio/nest-mailer/1.png"],
         "video": null,
         "locales": {
           "en": {
@@ -283,7 +283,7 @@
             "href": "https://www.npmjs.com/package/@salman3001/nest-config-module"
           }
         ],
-        "images": ["/images/portfolio/nest-config/1.png"],
+        "images": ["images/portfolio/nest-config/1.png"],
         "video": null,
         "locales": {
           "en": {
@@ -302,7 +302,7 @@
             "href": "https://www.npmjs.com/package/@salman3001/nest-policy-module"
           }
         ],
-        "images": ["/images/portfolio/nest-policy/1.png"],
+        "images": ["images/portfolio/nest-policy/1.png"],
         "video": null,
         "locales": {
           "en": {
@@ -324,8 +324,8 @@
           }
         ],
         "images": [
-          "/images/portfolio/calculator/1.png",
-          "/images/portfolio/calculator/2.png"
+          "images/portfolio/calculator/1.png",
+          "images/portfolio/calculator/2.png"
         ],
         "video": null,
         "locales": {
@@ -346,11 +346,11 @@
           }
         ],
         "images": [
-          "/images/portfolio/buyzone/1.png",
-          "/images/portfolio/buyzone/2.png",
-          "/images/portfolio/buyzone/3.png",
-          "/images/portfolio/buyzone/4.png",
-          "/images/portfolio/buyzone/5.png"
+          "images/portfolio/buyzone/1.png",
+          "images/portfolio/buyzone/2.png",
+          "images/portfolio/buyzone/3.png",
+          "images/portfolio/buyzone/4.png",
+          "images/portfolio/buyzone/5.png"
         ],
         "video": "https://www.youtube-nocookie.com/embed/PhiR67MTNtA?autoplay=0&rel=0&autoplay=0",
         "locales": {
@@ -370,7 +370,7 @@
             "href": "https://salman3001.github.io/portfolio"
           }
         ],
-        "images": ["/images/portfolio/portfolio-v1/1.png"],
+        "images": ["images/portfolio/portfolio-v1/1.png"],
         "video": null,
         "locales": {
           "en": {
@@ -392,9 +392,9 @@
           }
         ],
         "images": [
-          "/images/portfolio/jivan/1.png",
-          "/images/portfolio/jivan/2.png",
-          "/images/portfolio/jivan/3.png"
+          "images/portfolio/jivan/1.png",
+          "images/portfolio/jivan/2.png",
+          "images/portfolio/jivan/3.png"
         ],
         "video": null,
         "locales": {

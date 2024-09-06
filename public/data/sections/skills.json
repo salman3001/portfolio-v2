@@ -293,7 +293,7 @@
         }
       },
       {
-        "imageIconUrl": "/images/icons/sql.svg",
+        "imageIconUrl": "images/icons/sql.svg",
         "faIcon": null,
         "value": 80,
         "locales": {
@@ -304,7 +304,7 @@
         }
       },
       {
-        "imageIconUrl": "/images/icons/mongodb.svg",
+        "imageIconUrl": "images/icons/mongodb.svg",
         "faIcon": null,
         "value": 70,
         "locales": {
