@@ -38,15 +38,6 @@
       "jsonPath": "data/sections/education.json",
       "faIcon": "fa-solid fa-graduation-cap"
     },
-
-    {
-      "id": "skills",
-      "categoryId": "showcase",
-      "component": "InfoSection",
-      "jsonPath": "data/sections/skills.json",
-      "faIcon": "fa-solid fa-tools"
-    },
-
     {
       "id": "experience",
       "categoryId": "background",
@@ -61,6 +52,13 @@
       "component": "GallerySection",
       "jsonPath": "data/sections/portfolio.json",
       "faIcon": "fa-solid fa-folder-open"
+    },
+    {
+      "id": "skills",
+      "categoryId": "showcase",
+      "component": "InfoSection",
+      "jsonPath": "data/sections/skills.json",
+      "faIcon": "fa-solid fa-tools"
     },
 
     {
