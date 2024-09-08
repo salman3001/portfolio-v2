@@ -60,6 +60,58 @@
   "items": {
     "web_apps": [
       {
+        "id": "chauffeur_bookings",
+        "title": "Chauffeur Bookings - Online chauffeur booking engine (Incomplete)",
+        "logoUrl": "images/portfolio/chauffeur.png",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": ""
+          }
+        ],
+        "images": [
+          "images/portfolio/chauffeur/1.png",
+          "images/portfolio/chauffeur/2.png",
+          "images/portfolio/chauffeur/3.png",
+          "images/portfolio/chauffeur/4.png",
+          "images/portfolio/chauffeur/5.png",
+          "images/portfolio/chauffeur/6.png",
+          "images/portfolio/chauffeur/7.png",
+          "images/portfolio/chauffeur/8.png",
+          "images/portfolio/chauffeur/9.png",
+          "images/portfolio/chauffeur/10.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/FJFi-1Jm8jg?autoplay=0&rel=0&autoplay=0",
+        "locales": {
+          "en": {
+            "description": "<b>Chauffeur Bookings</b> Chauffeur Bookings, is an online Chauffeur bookings app. Admin can add chauffeurs, cars and assign cars to chauffeurs, Customer can book chauffeurs by hours of duration. Customer can view chauffeur availablity. Admin can customize chauffeur availability. No two booking are created at same time. All though project is incomplete and further development is currently stopped.",
+            "tags": ["Webapp", "vuejs", "node", "nestjs", "veutify", "rest api"]
+          },
+          "es": {
+            "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+            "tags": [
+              "aplicación",
+              "correo electrónico",
+              "comunicación",
+              "productividad"
+            ]
+          },
+          "fr": {
+            "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+            "tags": [
+              "application",
+              "courrier électronique",
+              "communication",
+              "productivité"
+            ]
+          },
+          "zh": {
+            "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+            "tags": ["应用", "电子邮件", "通讯", "生产力"]
+          }
+        }
+      },
+      {
         "id": "cert-guard",
         "title": "CertGurad - Online certificate verification",
         "logoUrl": "images/portfolio/cert-guard.png",
@@ -249,6 +301,67 @@
           "zh": {
             "description": "<b>Stackers</b> 是您的一体化组织和记事应用，旨在优化您的数字生活。通过无缝集成的任务管理、记事组织和云存储功能，Stackers 帮助您保持组织和高效。创建待办事项列表，记录想法，并轻松在各设备间同步您的笔记。无论您是学生、专业人士还是寻求无杂乱数字工作空间的任何人，Stackers 都在此，提升您的组织能力。",
             "tags": ["应用", "组织", "笔记", "生产力"]
+          }
+        }
+      },
+      {
+        "id": "cms_dashboard",
+        "title": "CMS DASHBOARD",
+        "logoUrl": "images/portfolio/cms.jpg",
+        "links": [
+          {
+            "faIcon": "fab fa-internet-explorer",
+            "href": "/"
+          }
+        ],
+        "images": [
+          "images/portfolio/cms/1.png",
+          "images/portfolio/cms/2.png",
+          "images/portfolio/cms/3.png",
+          "images/portfolio/cms/4.png",
+          "images/portfolio/cms/5.png",
+          "images/portfolio/cms/6.png",
+          "images/portfolio/cms/7.png",
+          "images/portfolio/cms/8.png",
+          "images/portfolio/cms/9.png",
+          "images/portfolio/cms/10.png",
+          "images/portfolio/cms/11.png",
+          "images/portfolio/cms/12.png"
+        ],
+        "video": "https://www.youtube-nocookie.com/embed/7t1eXOw-6WQ?autoplay=0&rel=0&autoplay=0",
+        "locales": {
+          "en": {
+            "description": "<b>CMS DASHBOARD</b> CMS DASHBOARD, is an admin dashboard for content management.Features Authentication, Authorization, Role and permissions, Users, Blogs, Help center, Support tickets, contact messages, Real time chats Products and service management",
+            "tags": [
+              "Webapp",
+              "vuejs",
+              "node",
+              "adonisjs",
+              "material ui",
+              "quasar"
+            ]
+          },
+          "es": {
+            "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+            "tags": [
+              "aplicación",
+              "correo electrónico",
+              "comunicación",
+              "productividad"
+            ]
+          },
+          "fr": {
+            "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+            "tags": [
+              "application",
+              "courrier électronique",
+              "communication",
+              "productivité"
+            ]
+          },
+          "zh": {
+            "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+            "tags": ["应用", "电子邮件", "通讯", "生产力"]
           }
         }
       }
